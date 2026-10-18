@@ -4,31 +4,34 @@
 
 ---
 
-Engenharia de Software · UNISATC · Estagiário de Suporte Técnico
+Software Engineering · UNISATC · Technical Support Intern
 
-Desenvolvimento web full-stack — JavaScript, React, Node.js, Python e PostgreSQL.
+Full-stack web development — JavaScript, React, Node.js, Python and PostgreSQL.
 
 <a href="https://www.linkedin.com/in/kau%C3%A3-mazon-30a16a339/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:kaugame1804@gmail.com"><img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
+<a href="mailto:kaugame1804@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 
 ---
 
 </div>
 
-## Sobre
+## About
 
-Estudante de Engenharia de Software na UNISATC e estagiário de suporte técnico.
-No suporte, aprendo todo dia a investigar a causa de um problema e a explicar a
-solução para quem usa o sistema. No desenvolvimento, levo isso para projetos web
-full-stack em Python, JavaScript e PostgreSQL.
+Software Engineering student at UNISATC and technical support intern. Support
+work teaches me every day to track down the root cause of a problem and explain
+the fix to the people who use the system. I bring that into the full-stack web
+projects I build with Python, JavaScript and PostgreSQL.
 
-- **Atualmente:** estagiário de suporte técnico e desenvolvendo projetos web full-stack
-- **Estudando:** Java e Spring Boot
-- **Aberto a:** oportunidades em desenvolvimento de software e projetos colaborativos
+I'm eager to keep growing as a developer: I enjoy picking up new tools, taking
+feedback and stepping into unfamiliar problems to learn from them.
+
+- **Currently:** technical support intern and building full-stack web projects
+- **Learning:** Java and Spring Boot
+- **Open to:** software development opportunities and collaborative projects
 
 ## Stack
 
-**Linguagens**
+**Languages**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -37,7 +40,7 @@ full-stack em Python, JavaScript e PostgreSQL.
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
 
-**Frameworks e ferramentas**
+**Frameworks and tools**
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
@@ -50,7 +53,7 @@ full-stack em Python, JavaScript e PostgreSQL.
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-**Aprendendo**
+**Learning**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
