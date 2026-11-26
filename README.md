@@ -12,10 +12,11 @@
 
 ## About me
 
-Software Engineering student at **UniSATC** and **technical support intern**. Support work teaches me every day to track down the root cause of a problem and explain the fix to the people who use the system. I bring that into the software projects I build with Python, JavaScript and PostgreSQL.
+Software Engineering student at **UniSATC**, currently working as a **technical support intern**. Support work teaches me every day to track down the root cause of a problem and explain the fix to the people who use the system, and I want to take that into a career in software engineering. Alongside college, I study and practice with Python, JavaScript and PostgreSQL.
 
-- **Currently:** technical support intern and building web applications end to end
+- **Currently:** technical support intern and Software Engineering student
 - **Learning:** Java and Spring Boot
+- **Goal:** start my career as a software engineer
 - **Open to:** software development opportunities and collaborative projects
 
 I'm eager to keep growing as a developer: I enjoy picking up new tools, taking feedback and stepping into unfamiliar problems to learn from them.
