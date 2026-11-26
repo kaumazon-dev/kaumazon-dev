@@ -1,7 +1,7 @@
 <h1 align="center">Kauã Mazon</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=2F81F7&center=true&vCenter=true&width=640&lines=Full-Stack+Developer;JavaScript+%C2%B7+React+%C2%B7+Node.js+%C2%B7+Python+%C2%B7+PostgreSQL;Technical+Support+Intern;Software+Engineering+student+%40+UniSATC" alt="Full-Stack Developer · JavaScript · React · Node.js · Python · PostgreSQL" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=2F81F7&center=true&vCenter=true&width=640&lines=Full-Stack+Developer;JavaScript+%C2%B7+React+%C2%B7+Node.js+%C2%B7+Python+%C2%B7+PostgreSQL;Technical+Support+Intern;Software+Engineering+student+%40+UniSATC" alt="Software Engineer ·  JavaScript · React · Node.js · Python · PostgreSQL" />
 </p>
 
 <p align="center">
